@@ -1,0 +1,4 @@
+Simple game written in javascript (using canvas element).
+
+Just click on block (which has to be in the neighborhood of empty block) to move it right, left, up or down. 
+The game is over when You put together all pieces in one big photo (which is visible in the background).
